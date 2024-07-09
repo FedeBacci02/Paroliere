@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "stringfunction.h": "c",
+        "macros.h": "c",
+        "matrix.h": "c",
+        "string.h": "c",
+        "trie.h": "c",
+        "codapunteggi.h": "c",
+        "listauser.h": "c",
+        "listaconcatenataplayer.h": "c",
+        "wait.h": "c",
+        "codathreads.h": "c",
+        "socket.h": "c",
+        "errno.h": "c",
+        "inet.h": "c",
+        "stdlib.h": "c"
+    }
+}

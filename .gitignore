@@ -1,0 +1,7 @@
+.env
+node_modules/
+*.o
+paroliere_cl
+paroliere_sv
+client
+fileDiLog.txt
